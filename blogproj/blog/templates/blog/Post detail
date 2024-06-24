@@ -1,4 +1,5 @@
 {% extends 'blog/base.html' %}
+{% block content %}
 
 <article class="media content-section">
     <img class="rounded-circle article-img" src="path/to/author/profile/image.jpg" alt="">
