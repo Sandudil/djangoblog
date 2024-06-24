@@ -202,7 +202,7 @@ body {
 }
 #gist-btn{
     color: black;
-    background: linear-gradient(270deg, rgb(247, 0, 255) 0%, rgb(98, 0, 255) 100%);
+    background: linear-gradient(270deg, rgb(27,181,195) 0%, rgb(145,39,143) 100%);
     padding: 10px;
     color: white;
     font-family: 'Poppins', sans-serif;
