@@ -244,7 +244,7 @@ body {
     width: 100%;
     font-size: 18px;
     transition: 1s;
-    background: linear-gradient(270deg, rgb(27, 181, 195) 0%, rgb(98, 0, 255) 100%);
+    background: linear-gradient(270deg, rgb(27, 181, 195) 0%, rgb(145, 39, 143) 120%);
   }
 
   /* a {
