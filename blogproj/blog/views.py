@@ -40,3 +40,8 @@ def test_func(self):
 class PostUpdateView(LoginRequiredMixin, UserPassesTestMixin, UpdateView):
     model = Post
     fields = ['title', 'content']
+
+
+class PostDeleteView(DeleteView):
+    model = Post
+    success_url = '/'
