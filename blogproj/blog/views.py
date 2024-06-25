@@ -18,3 +18,8 @@ class PostListView(LoginRequiredMixin, ListView):
 
 class PostDetailView(LoginRequiredMixin, DetailView):
     model = Post
+
+
+class PostCreateView(LoginRequiredMixin, CreateView):
+    model = Post
+    fields = ['title', 'content']
