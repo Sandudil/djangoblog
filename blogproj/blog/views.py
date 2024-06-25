@@ -14,3 +14,7 @@ class PostListView(LoginRequiredMixin, ListView):
     template_name = 'blog/home.html'
     context_object_name = 'posts'
     ordering = ["-date_posted"]
+
+
+class PostDetailView(LoginRequiredMixin, DetailView):
+    model = Post
