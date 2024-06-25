@@ -52,3 +52,10 @@ def test_func(self):
 class PostDeleteView(DeleteView):
     model = Post
     success_url = '/'
+
+
+def test_func(self):
+        post = self.get_object()
+        if self.request.user == post.author:
+            return True
+        return False
