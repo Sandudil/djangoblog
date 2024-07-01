@@ -1,6 +1,5 @@
 {% extends 'blog/base.html' %}
 {% block content %}
-
 <article class="media content-section">
     <img class="rounded-circle article-img" src="path/to/author/profile/image.jpg" alt="">
     <div class="media-body">
@@ -18,7 +17,7 @@
             </div>
         </div>
         <h2><a class="article-title" href="#">Post Title</a></h2>
-        <p class="article-content">Post content goes here...</p>
+        <p class="article-content">Post content goes here....</p>
     </div>
     <br>
 </article>
