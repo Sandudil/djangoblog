@@ -5,30 +5,30 @@
     <img class="rounded-circle article-img" src="path/to/author/profile/image.jpg" alt="">
     <div class="media-body">
         <div class="article-metadata">
-            <a class="mr-2" href="#">Author Name</a>
+            <a class="mr-2" href="#">Author_Name</a>
             <article class="media content-section">
     <img class="rounded-circle article-img" src="path/to/author/profile/image.jpg" alt="">
     <div class="media-body">
         <div class="article-metadata">
-            <a class="mr-2" href="#">Author Name</a>
-            <small class="text-muted">Date Posted</small> <br>
+            <a class="mr-2" href="#">Author_Name</a>
+            <small class="text-muted">Date_Posted</small> <br>
             <div>
                 <a class="btn btn-outline-success" href="/blog-update/post-id">Update</a>
                 <a class="btn btn-outline-danger" href="/blog-delete/post-id">Delete</a>
             </div>
         </div>
-        <h2><a class="article-title" href="#">Post Title</a></h2>
+        <h2><a class="article-title" href="#">Post_Title</a></h2>
         <p class="article-content">Post content goes here....</p>
     </div>
     <br>
 </article>
-<small class="text-muted">Date Posted</small> <br>
+<small class="text-muted">Date_Posted</small> <br>
             <div>
                 <a class="btn btn-outline-success" href="/blog-update/post-id">Update</a>
                 <a class="btn btn-outline-danger" href="/blog-delete/post-id">Delete</a>
             </div>
         </div>
-        <h2><a class="article-title" href="#">Post Title</a></h2>
+        <h2><a class="article-title" href="#">Post_Title</a></h2>
         <p class="article-content">Post content goes here...</p>
     </div>
     <br>
