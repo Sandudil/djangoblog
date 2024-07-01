@@ -2,7 +2,7 @@
 {% block content %}
 
 <article class="media content-section">
-    <img class="rounded-circle article-img" src="path/to/author/profile/image.jpg" alt="">
+    <img class="">
     <div class="media-body">
         <div class="article-metadata">
             <a class="mr-2" href="#">Author Name</a>
